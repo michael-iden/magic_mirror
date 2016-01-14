@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+    color: #666666;
+    font-family: "Apple SD Gothic Neo";
+}
+
+.now {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.day {
+    font-size: 48px;
+}
+
+.time {
+    font-size: 72px;
+}

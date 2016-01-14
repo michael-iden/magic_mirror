@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "homepage": "https://github.com/michael-iden/magic_mirror",
+  "authors": [
+    "michael-iden <michael.iden@mybuys.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "moment": "~2.11.1"
+  }
+}
