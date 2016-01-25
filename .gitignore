@@ -6,6 +6,7 @@
 __pycache__/
 *.py[cod]
 
+/static/js/bower_components
 # C extensions
 *.so
 
